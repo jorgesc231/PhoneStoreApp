@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Phone New</string>
+
+    <string name="price_format_with_dollar_sign">$ %1$s</string>
+    <string name="last_price_format">Antes $ %1$s</string>
+    <string name="current_price_format">Ahora $ %1$s</string>
+
+    <string name="product_image_description">Imagen Producto</string>
+    <string name="credit_true">Acepta Crédito</string>
+    <string name="credit_false">Solo Efectivo</string>
+    <string name="contact_button_text">Contactar</string>
+    <string name="product_description_subtitle">Descripción:</string>
+    <string name="empty_list_error">Error al obtener los productos, intenta mas tarde :(</string>
+    <string name="detail_screen_title">Detalle</string>
+</resources>
